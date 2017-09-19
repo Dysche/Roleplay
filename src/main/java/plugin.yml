@@ -1,0 +1,5 @@
+name: Roleplay
+version: 0.01a
+description: The roleplay plugin for Aspix Network.
+main: com.dysche.roleplay.Main
+depend: [Cantaloupe]
